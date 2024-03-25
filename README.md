@@ -1,6 +1,6 @@
 # Minimal L2-Consistent Data-Transmission
 
-The code accompaning our paper available on arxiv.
+The code accompaning the paper.
 
 **Authors:** [Antoine Aspeel](https://aaspeel.github.io/), Laurent Bako and [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
 
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Run
 The code runs in two steps: first it does the computations and save the results; and then it makes the plots.
 
-1) To compute the results, run
+To compute the results, run
 ~~~~
 python3 main_simulation.py
 ~~~~
@@ -25,7 +25,7 @@ Then, to make the plots, run
 ~~~~
 python3 main_plot.py
 ~~~~
-this will plot the results and save them in the folver `simulation_results/`.
+this will plot the results and save them in the folder `simulation_results/`.
 
 ## Appendix
 The script `main_simulation.py` relies on
