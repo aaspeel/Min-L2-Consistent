@@ -28,8 +28,7 @@ python3 main_plot.py
 this will plot the results and save them in the folder `simulation_results/`.
 
 ## Appendix
-The script `main_simulation.py` relies on
-The following additional scripts are used by `main_simulation.py` and `main_plots.py`.
+The script `main_simulation.py` relies on the following additional scripts:
 1. `load_system.py` is used to load an instance of the problem.
 2. `SLSFinite.py` defines a class `SLSFinite` storing the optimization variables and parameters of the optimization problems. Methods of `SLSFinite` compute system level synthesis constraint.
 3. `optimize_SLS.py` solve the optimization problem with reweighting nuclear norm heuristic.
