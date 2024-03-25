@@ -2,7 +2,7 @@
 
 The code accompaning our paper available on arxiv.
 
-**Authors:** Antoine Aspeel, Laurent Bako and Necmiye Ozay
+**Authors:** [Antoine Aspeel](https://aaspeel.github.io/), Laurent Bako and [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
 
 The code reproduces the results in the section "Numerical Experiments" of the paper. 
 
