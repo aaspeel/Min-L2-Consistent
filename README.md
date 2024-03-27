@@ -2,7 +2,7 @@
 
 The code accompaning the paper.
 
-**Authors:** [Antoine Aspeel](https://aaspeel.github.io/), Laurent Bako and [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
+**Authors:** [Antoine Aspeel](https://aaspeel.github.io/), [Laurent Bako](https://sites.google.com/site/laurentbako/) and [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
 
 The code reproduces the results in the section "Numerical Experiments" of the paper. 
 
