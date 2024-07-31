@@ -17,7 +17,7 @@ The code runs in two steps: first it does the computations and save the results;
 
 To compute the results, run
 ~~~~
-python3 main_simulation.py
+python3 main_simulations.py
 ~~~~
 This will save the results in `simulation_results/variables.pkl`.
 
@@ -28,7 +28,7 @@ python3 main_plot.py
 this will plot the results and save them in the folder `simulation_results/`.
 
 ## Appendix
-The script `main_simulation.py` relies on the following additional scripts:
+The script `main_simulations.py` relies on the following additional scripts:
 1. `load_system.py` is used to load an instance of the problem.
 2. `SLSFinite.py` defines a class `SLSFinite` storing the optimization variables and parameters of the optimization problems. Methods of `SLSFinite` compute system level synthesis constraint.
 3. `optimize_SLS.py` solve the optimization problem with reweighting nuclear norm heuristic.
