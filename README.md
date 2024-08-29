@@ -1,6 +1,6 @@
 # Minimal L2-Consistent Data-Transmission
 
-The code accompaning the paper.
+Code accompaning the paper [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012v1).
 
 **Authors:** [Antoine Aspeel](https://aaspeel.github.io/), [Laurent Bako](https://sites.google.com/site/laurentbako/) and [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/)
 
